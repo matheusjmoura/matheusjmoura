@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Matheus José de Moura from Brazil (🇧🇷). I study Computer Engineering at [UTFPR - Universidade Tecnológica Federal do Paraná](http://portal.utfpr.edu.br/). I'm passionate about software development and I've always loved to produce a lot of content during my learning.
+My name is Matheus José de Moura from Brazil (🇧🇷). I study Computer Engineering at [UTFPR - Universidade Tecnológica Federal do Paraná](http://portal.utfpr.edu.br/). I'm passionate about software development and I've always loved to produce a lot of content.
 
 In my free time I like to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
 
